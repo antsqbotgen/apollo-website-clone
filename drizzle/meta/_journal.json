@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1756379054274,
+      "tag": "0000_complex_wendell_rand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1756380271552,
+      "tag": "0001_white_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1756380969726,
+      "tag": "0002_living_stellaris",
+      "breakpoints": true
+    }
+  ]
+}
